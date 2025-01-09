@@ -6,7 +6,7 @@ Line 1: contains 2 positive integers n and m (1 <= n,m <= 30)
 Line i+1 (i = 1, 2, . . ., m): contains 3 positive integers u, v, c in which w is the length of the edge(u,v)
 
 Output
-Write the sum of lengths of thw two edge-disjoint paths found, or write NOT_FEASIBLE if no solution found.
+Write the sum of lengths of the two edge-disjoint paths found, or write NOT_FEASIBLE if no solution found.
 
 Example
 Input
